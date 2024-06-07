@@ -1,0 +1,39 @@
+*margin{
+    margin: 0;
+    padding: 0;
+}
+.mainFooter{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    background-color: black;
+    color: aliceblue;
+ 
+}
+h3{
+    font-size: 25px;
+    margin: 15px;
+    text-align: center;
+    text-decoration: underline rgb(152, 246, 11)
+
+}
+.content span{
+    width: 190px;
+    margin: auto;
+    padding: 7px;
+}
+.nav{
+    margin-left: 10px;
+    list-style-type: none;
+    text-align: left;
+    padding: 7px;
+    position: relative;
+}
+a{
+    color: aliceblue;
+    text-decoration: none 100px;
+}
+a:hover{
+    color: aquamarine;
+}
